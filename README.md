@@ -12,13 +12,13 @@
 		   <p><b>Kayıt projeleri web site taslakları gibi binlerce proje sayamıyacağım kadar çok başlıklar<b>
            <h3><b>İlgi Alanlarım <b>
 	       <ul>
-	          <font color="green"><li><a herf="#">Grafik Tasarım </a></li></font> <!-- liste  -->
-		      <font color="green"><li><a herf="#">Graffıti </a></li></font> <!-- # İşareti ile Bağlantı nın boş olduğunu belirtiyoz -->
-		      <font color="green"><li><a herf="#">Yazılım </a></li></font> <!-- Detaylı Anlatım kitabta -->
+	          <font color="green"><li><a herf="#">Grafik Tasarım </a></li></font> 
+		      <font color="green"><li><a herf="#">Graffıti </a></li></font> 
+		      <font color="green"><li><a herf="#">Yazılım </a></li></font> 
 	       </ul>	  
 	       <p>Git hub üzerinden bu form aracılığıyla vereceğim linkler anlatacağım konular yaptığım programlar la sizlere yardım edecem  </p>
 	       <li><b><a href="https://www.instagram.com/errenrip/" target="_blank"><font color="red">Instagram </font></a><b>
-           <li><b><a href="https://www.youtube.com/channel/UC45QlquDizup2ILKLZKdPaw?view_as=subscriber" target="_blank"><font color="red">YouTube</font></a><b></li>
+           <li><b><a href="https://www.youtube.com/channel/UC45QlquDizup2ILKLZKdPaw?view_as=subscriber" target="_blank"><font color="red">YouTube</font></a><b>
 	       <li><b><a href="https://t.me/grafiksanat" target="_blank"><font color="red">Telegram Grafik Sanat</font> </a><b>
 	       <li><b><a href="https://discord.gg/W3vjVbu" target="_blank"><font color="red">Ekip Oyunda Discord </font></a><b>
           <p>Visual Studio ile yaptığım ınstagram kullanıcı adı ve şfre çalma uygulamasının dosyalarıdır</p>
