@@ -8,8 +8,7 @@
        <body>      
            <center><h1> << Anonim Rip >> </h1></center>
 	       <h2>Anonim Rip Kimdir? ve amaçlarım.</h2>
-           <p><b>Sizlere Yaptığım Projelerin dosyalarını paylaşıcam<b>
-		   <p><b>bu projeler neler ola bilir işte güvenlik sistemleri<b>
+           <p><b>Sizlere Yaptığım Projelerin dosyalarını paylaşıcam bu projeler neler ola bilir işte güvenlik sistemleri<b>
 		   <p><b>Kayıt projeleri web site taslakları gibi binlerce proje sayamıyacağım kadar çok başlıklar<b>
            <h3><b>İlgi Alanlarım <b>
 	       <ul>
@@ -27,3 +26,10 @@
 		  <li><b><a href="https://s2.dosya.tc/server13/kgrbw3/Jupiter_Markasi_Ornek_Kayit_Sistemi.rar.html" target="_blank"><font color="blue">Jupiter Markası Örnek Kayıt Sistemi</font></a><b>
 		  
 		  
+		  
+		  
+		
+ 
+
+
+
