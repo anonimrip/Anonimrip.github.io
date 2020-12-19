@@ -8,8 +8,8 @@
        <body>      
            <center><h1> << Anonim Rip >> </h1></center>
 	       <h2>Anonim Rip Kimdir? ve amaçlarım.</h2>
-           <p><b>Sizlere Yaptığım Projelerin dosyalarını paylaşıcam bu projeler neler ola bilir işte güvenlik sistemleri<b></p>
-		   <p><b>Kayıt projeleri web site taslakları gibi binlerce proje sayamıyacağım kadar çok başlıklar<b></p>
+           <p><b>Sizlere Yaptığım Projelerin dosyalarını paylaşıcam bu projeler neler ola bilir işte güvenlik sistemleri<b>
+		   <p><b>Kayıt projeleri web site taslakları gibi binlerce proje sayamıyacağım kadar çok başlıklar<b>
            <h3><b>İlgi Alanlarım <b>
 	       <ul>
 	          <font color="green"><li><a herf="#">Grafik Tasarım </a></li></font> 
