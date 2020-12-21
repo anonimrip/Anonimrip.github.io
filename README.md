@@ -23,9 +23,8 @@
 	       <li><b><a href="https://discord.gg/W3vjVbu" target="_blank"><font color="red">Ekip Oyunda Discord </font></a><b>
           <p>--------------------------------------------------------------------------------------------------------------        </p>
 		  <li><b><a href="https://s7.dosya.tc/server18/wv2dp5/Instagram_Takipci_HACK_Uygulama_Pack.rar.html" target="_blank"><font color="blue">Instagram Takipçi hack Visual studio project</font></a><b>
-		  <li><b><a href="https://s2.dosya.tc/server13/kgrbw3/Jupiter_Markasi_Ornek_Kayit_Sistemi.rar.html" target="_blank"><font color="blue">Jupiter Markası Örnek Kayıt Sistemi</font></a><b>
-		   
-		  
+		  <li><b><a href="https://s2.dosya.tc/server13/kgrbw3/Jupiter_Markasi_Ornek_Kayit_Sistemi.rar.html" target="_blank"><font color="blue">Jupiter Markası Örnek Kayıt Sistemi</font></a><b>		  
+		  <li><b><a href="https://s2.dosya.tc/server13/dgduob/9.SinifOrtaama_hesaplama.rar&56968763" target="_blank"><font color="blue">Meslek Lisesi 9. sınıflar Ortalama Hesablama Project</font></a><b>
 		  
 		  
 		
