@@ -24,7 +24,7 @@
           <p>--------------------------------------------------------------------------------------------------------------        </p>
 		  <li><b><a href="https://s7.dosya.tc/server18/wv2dp5/Instagram_Takipci_HACK_Uygulama_Pack.rar.html" target="_blank"><font color="blue">Instagram Takipçi hack Visual studio project</font></a><b>
 		  <li><b><a href="https://s2.dosya.tc/server13/kgrbw3/Jupiter_Markasi_Ornek_Kayit_Sistemi.rar.html" target="_blank"><font color="blue">Jupiter Markası Örnek Kayıt Sistemi</font></a><b>
-		  
+		   
 		  
 		  
 		  
