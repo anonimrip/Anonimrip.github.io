@@ -27,6 +27,17 @@
 		  <li><b><a href="https://s2.dosya.tc/server13/dgduob/9.SinifOrtaama_hesaplama.rar&56968763" target="_blank"><font color="blue">Meslek Lisesi 9. sınıflar Ortalama Hesablama Project</font></a><b>
 		  
 		  
+		  
+		  <center><h1><< Python ve Cmd >></h1></center>
+		  <p><b>Merhaba dostlar başlıktanda anlıyacağınız gibi c# ve js den sonra Python a başladım.<b>
+		  <p><b>Css 3 e hanüz bir başlamadım ama konumuz bu değil cmd python ve visual studio nesne tabanlı programlama<b>
+		  <p><b>1 hafta sonra ki paylaşacağım linkten crack info hazır menu taslak menu seçenekli menüler indire bileceksiniz<b>
+		  <p><b>koyucağım linkte çok fazla menu olucak hepside ücretsizdir indirin ve kafanıza göre kullanın<b>
+		  <p><b>Evet gelin biz bunu nasıl kullanıcaz altta talimatlar var<b>
+		  <p><b>notdefteri > komutlar echo off____color a____cls____py anonım_rıp <[dosya adı .py ile biten]<b>
+		  <p><b> üsteki alt tan tireleri yazmayın ve komutları alt lata yazın o tireler boşluk amaçlıdır<b>
+		  
+		  
 		
  
 
