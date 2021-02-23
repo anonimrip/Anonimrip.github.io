@@ -28,7 +28,7 @@
 		  
 		  
 		  
-		  <center><h1><< Python ve Cmd >></h1></center>
+		  <center><h2><< Python ve Cmd >></h2></center>
 		  <p><b>Merhaba dostlar başlıktanda anlıyacağınız gibi c# ve js den sonra Python a başladım.<b>
 		  <p><b>Css 3 e hanüz bir başlamadım ama konumuz bu değil cmd python ve visual studio nesne tabanlı programlama<b>
 		  <p><b>1 hafta sonra ki paylaşacağım linkten crack info hazır menu taslak menu seçenekli menüler indire bileceksiniz<b>
