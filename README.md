@@ -38,6 +38,10 @@
 		  <p><b> üsteki alt tan tireleri yazmayın ve komutları alt lata yazın o tireler boşluk amaçlıdır<b>
 		  
 		  
+		  
+		   <center><h2><< Filim Müzikleri >></h2></center>
+		   p><b>Filimlerde ki bütün mizkleri spotify da çalma listesi olarak hazırladık aşşağıda linkler var<b>
+		   <li><b><a href="https://open.spotify.com/playlist/6Mq4768chpyloQzEiAAb0z?si=M528I-aASIad-UsElUzubA" target="_blank"><font color="blue">Hızlı ve Öfkeli 8</font></a><b>
 		
  
 
